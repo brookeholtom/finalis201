@@ -1,0 +1,32 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: x-large;
+    color: #555;
+    background-color: blanchedalmond;
+} 
+
+ul {
+    font-size: 14px;
+    font-style: italic;
+    font-weight: normal;
+    color: purple; 
+}
+ /* making the font/style/thickness of li section */
+
+a{
+    color: black;
+    text-decoration: none 
+}
+/* text inside the a segments aka the links is green now */
+
+
+.underline {text-decoration: underline;}
+.bold {font-weight: bold;}
+.justify {text-align: justify;}
+
+.background {
+    background-image: url('../assets/img/brooke3.JPG');
+    background-position: center;
+    background-size: 100%;
+}
+
